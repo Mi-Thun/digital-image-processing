@@ -1,4 +1,4 @@
-# -Digital-Image-Processing
+# Digital-Image-Processing
 Academic Course Progresses
 
 ## Lab 1
@@ -12,3 +12,7 @@ Academic Course Progresses
 ## Lab 3
 > - Instruction: [Question Lab 3.docx](https://github.com/Mi-Thun/Digital-Image-Processing/files/9939852/Question.Lab.3.docx)
 > - Report: [2019-3-60-046_Lab3_Report.docx](https://github.com/Mi-Thun/Digital-Image-Processing/files/9939850/2019-3-60-046_Lab3_Report.docx)
+
+## Lab 4
+> - Instruction: [Lab 4.docx](https://github.com/Mi-Thun/Digital-Image-Processing/files/10040010/Lab.4.docx)
+> - Report: [2019-3-60-046_Lab4_Report.docx](https://github.com/Mi-Thun/Digital-Image-Processing/files/10040008/2019-3-60-046_Lab4_Report.docx)

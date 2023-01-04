@@ -30,4 +30,5 @@ Academic Course Progresses
 > - Report: [2019-3-60-046_Lab7_Report.docx](https://github.com/Mi-Thun/Digital-Image-Processing/files/10344645/2019-3-60-046_Lab7_Report.docx)
 
 ## Lab 8
-> - Instruction: [Lab 8.docx](https://github.com/Mi-Thun/Digital-Image-Processing/files/10344643/Lab.8.docx)(https://github.com/Mi-Thun/Digital-Image-Processing/files/10344638/2019-3-60-046_Lab8_Report.docx)
+> - Instruction: [Lab 8.docx](https://github.com/Mi-Thun/Digital-Image-Processing/files/10344643/Lab.8.docx)
+> - Report: [2019-3-60-046_Lab8_Report.docx](https://github.com/Mi-Thun/Digital-Image-Processing/files/10344638/2019-3-60-046_Lab8_Report.docx)
